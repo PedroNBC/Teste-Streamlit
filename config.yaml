@@ -1,0 +1,24 @@
+cookie:
+  expiry_days: 30
+  key: some_signature_key
+  name: some_cookie_name
+credentials:
+  usernames:
+    pedro:
+      email: jsmith@gmail.com
+      failed_login_attempts: 0
+      first_name: Pedro
+      last_name: Nunes
+      logged_in: false
+      password: $2b$12$EHAa6cQ7jUKoIvQLP53hOexcQqmm/EP6W4mXzmwpfHBivefP94eFK
+      roles:
+      - admin
+      - viewer
+    rbriggs:
+      email: rbriggs@gmail.com
+      failed_login_attempts: 0
+      first_name: Rebecca
+      last_name: Briggs
+      logged_in: false
+      password: $2b$12$mL.ncIjrDkm9GuM7qRzjne8fYRa0Eb1oslXucJI8K2tr173.BeUV.
+      roles: null
